@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "outDir": "dist",
+    "allowSyntheticDefaultImports": true,
+    "noImplicitAny": true,
+    "module": "CommonJS",
+    "target": "es5",
+    "lib": ["ESNext","DOM"],
+    "allowJs": true
+  },
+  "files": ["src/index.ts","src/test.ts"]
+}
